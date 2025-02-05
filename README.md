@@ -1,4 +1,4 @@
-All new code is located in sidebar.js
+All new code is located in sidebar.jsx
 
 # Getting Started with Create React App
 
