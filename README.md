@@ -1,4 +1,4 @@
-All new code is located in index.js
+All new code is located in sidebar.js
 
 # Getting Started with Create React App
 
